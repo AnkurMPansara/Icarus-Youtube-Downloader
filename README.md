@@ -1,7 +1,7 @@
 # Icarus-Youtube-Downloader
 
 ## About The Project
-[![Screen Shot][screenshot]]
+![Screen Shot][Screenshot.jpg]
 A simple python app to download youtube videos with desired resolution
 
 ## Prerequisites

@@ -3,7 +3,7 @@
 ## About The Project
 A simple python app to download youtube videos with desired resolution
 
-##Prerequisites
+## Prerequisites
 
 Libraries needed for the code to run
 * pytube
